@@ -16,7 +16,7 @@ public class Main {
             System.out.println("Division: " + sh + " / " + sh1 + " = " + (sh / sh1));
 
             System.out.println("Long: ");
-            long l = 145, l1 = 241;
+            long l = 145L, l1 = 241L;
             System.out.println("Addition: " + l + " + " + l1 + " = " + (l + l1));
             System.out.println("Subtraction: " + l + " - " + l1 + " = " + (l - l1));
             System.out.println("Multiplication: " + l + " * " + l1 + " = " + (l * l1));
